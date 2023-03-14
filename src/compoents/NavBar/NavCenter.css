@@ -1,0 +1,120 @@
+ .navbar {
+    background-color: transparent;
+    height: 70px;
+    border-radius: 5px;
+ }
+ 
+ .nav-link {
+    color: black;
+    font-weight: 500;
+ }
+ .nav-link:hover {
+    color: #cc0033;
+ }
+ h6 {
+    color: #000;
+ }
+ .nav-link-mega {
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+ }
+.nav-link-user {
+   color: black;
+   font-weight: 500;
+   text-decoration: none;
+   padding: 18px;
+   margin: 4px;
+}
+.nav-link-global {
+   color:black;
+   font-weight: 400;
+   background-color: whitesmoke;
+}
+.nav-link-user:hover {
+   color: #cc0033;
+}
+ .nav-link-product {
+    color: #000;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 16px 16px;
+    margin: 6px ;
+    
+ }
+ .nav-link-product:hover {
+    color: #cc0033;
+
+ }
+ .nav-link-mega:hover {
+    color: #cc0033;
+  
+ }
+ .megadropdown {
+    background-color: #8d8888;
+ }
+ .dropdown-menu {
+    background-color: whitesmoke;
+    color: #000;
+    margin: 20px;
+    border-radius: 0px;
+    
+ }
+ .global {
+    color: black;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 9px;
+    font-size: 22px;
+ }
+ .global:hover {
+    color: #cc0033;
+ }
+ .form-select {
+    color: black;
+    background-color: transparent;
+    width: 140px;
+    padding: 2px 40px 3px;
+    margin-left: 23px;
+    border-radius: 0px;
+ }
+
+ .dropdown-user {
+   margin-left: 52px;
+   margin-top: 2px;
+   background-color: transparent;
+ }
+ .user-menu {
+   background-color: whitesmoke;
+ }
+ .li-user {
+   width: 120px;
+   margin-top: 4px;
+ }
+ .fa-shopping-cart {
+   font-size: 23px;
+   margin-left: 20px;
+   margin-top: 8px;
+ }
+ .badge {
+   font-size: 10px;
+ }
+ .fa-search {
+   position: absolute;
+   font-size: 20px;
+   margin-top: 11px;
+   margin-left: 12px;
+ }
+ .fa-search:hover {
+color: #cc0033;
+ }
+ .fa-search:hover {
+   color: #cc0033;
+ }
+ .btn-modal-search {
+   margin-top: 5px;
+   margin-left: 4px;
+ }
+ .btn-outline-dark {
+   margin-right: 8px;
+ }

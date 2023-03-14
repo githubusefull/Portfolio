@@ -1,0 +1,40 @@
+.Article1 {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Card { 
+	width: 500px;
+    height: 500px;
+    margin-top:10px;
+    margin: 23px;
+    box-shadow: 0px 1px 10px 1px black;
+}
+
+.image-container img{
+    background: whitesmoke;
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    border-radius: 50%;
+    transform: translate(35px, 0px, 23px);
+
+}
+.upper-container {
+    height: 500px;
+    background-image: linear-gradient( 129.1deg,  rgba(243,199,83,1) 26.8%, rgba(18,235,207,1) 114.1% );
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+
+}
+.text{
+    margin-top: 20px;
+}
+h7{
+  font-weight: 500;  
+}
