@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/spaceservice/static/css/main.7aae70ec.css",
-    "main.js": "/spaceservice/static/js/main.32bdfae3.js",
-    "static/js/787.8bf2813b.chunk.js": "/spaceservice/static/js/787.8bf2813b.chunk.js",
-    "static/media/pic2.jpg": "/spaceservice/static/media/pic2.2fe0dde50c3fe8df9f50.jpg",
-    "static/media/pic6.jpg": "/spaceservice/static/media/pic6.aa5ddd39bcccddbe3927.jpg",
-    "static/media/picc1.jpg": "/spaceservice/static/media/picc1.9937a28b2c1c52ccaf9f.jpg",
-    "static/media/pic2.png": "/spaceservice/static/media/pic2.0725efecd397eb427ed5.png",
-    "static/media/pic3.jpg": "/spaceservice/static/media/pic3.899d07adc419f8a4f304.jpg",
-    "static/media/team.jpg": "/spaceservice/static/media/team.8536547a7c03b1d4e631.jpg",
-    "static/media/programming1.png": "/spaceservice/static/media/programming1.53e742ca804c89f85e87.png",
-    "static/media/pic4.jpg": "/spaceservice/static/media/pic4.68e933b9a87bf8de392c.jpg",
-    "static/media/programming2.png": "/spaceservice/static/media/programming2.17b26dbfedfccf98e2c9.png",
-    "static/media/Logo.png": "/spaceservice/static/media/Logo.7aa1d37b7f17992e1aeb.png",
-    "static/media/revicons.eot": "/spaceservice/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/spaceservice/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/spaceservice/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/spaceservice/index.html",
-    "main.7aae70ec.css.map": "/spaceservice/static/css/main.7aae70ec.css.map",
-    "main.32bdfae3.js.map": "/spaceservice/static/js/main.32bdfae3.js.map",
-    "787.8bf2813b.chunk.js.map": "/spaceservice/static/js/787.8bf2813b.chunk.js.map"
+    "main.css": "/spaceservices/static/css/main.64eba846.css",
+    "main.js": "/spaceservices/static/js/main.5e0dcdbe.js",
+    "static/js/787.0b5090a7.chunk.js": "/spaceservices/static/js/787.0b5090a7.chunk.js",
+    "static/media/pic2.jpg": "/spaceservices/static/media/pic2.2fe0dde50c3fe8df9f50.jpg",
+    "static/media/pic6.jpg": "/spaceservices/static/media/pic6.aa5ddd39bcccddbe3927.jpg",
+    "static/media/picc1.jpg": "/spaceservices/static/media/picc1.9937a28b2c1c52ccaf9f.jpg",
+    "static/media/pic2.png": "/spaceservices/static/media/pic2.0725efecd397eb427ed5.png",
+    "static/media/pic3.jpg": "/spaceservices/static/media/pic3.899d07adc419f8a4f304.jpg",
+    "static/media/team.jpg": "/spaceservices/static/media/team.8536547a7c03b1d4e631.jpg",
+    "static/media/programming1.png": "/spaceservices/static/media/programming1.53e742ca804c89f85e87.png",
+    "static/media/pic4.jpg": "/spaceservices/static/media/pic4.68e933b9a87bf8de392c.jpg",
+    "static/media/programming2.png": "/spaceservices/static/media/programming2.17b26dbfedfccf98e2c9.png",
+    "static/media/Logo.png": "/spaceservices/static/media/Logo.7aa1d37b7f17992e1aeb.png",
+    "static/media/revicons.eot": "/spaceservices/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/spaceservices/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/spaceservices/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/spaceservices/index.html",
+    "main.64eba846.css.map": "/spaceservices/static/css/main.64eba846.css.map",
+    "main.5e0dcdbe.js.map": "/spaceservices/static/js/main.5e0dcdbe.js.map",
+    "787.0b5090a7.chunk.js.map": "/spaceservices/static/js/787.0b5090a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aae70ec.css",
-    "static/js/main.32bdfae3.js"
+    "static/css/main.64eba846.css",
+    "static/js/main.5e0dcdbe.js"
   ]
 }
