@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/spaceservices/static/css/main.64eba846.css",
+    "main.css": "/spaceservices/static/css/main.ad9413e9.css",
     "main.js": "/spaceservices/static/js/main.5e0dcdbe.js",
     "static/js/787.0b5090a7.chunk.js": "/spaceservices/static/js/787.0b5090a7.chunk.js",
-    "static/media/pic2.jpg": "/spaceservices/static/media/pic2.2fe0dde50c3fe8df9f50.jpg",
     "static/media/pic6.jpg": "/spaceservices/static/media/pic6.aa5ddd39bcccddbe3927.jpg",
     "static/media/picc1.jpg": "/spaceservices/static/media/picc1.9937a28b2c1c52ccaf9f.jpg",
     "static/media/pic2.png": "/spaceservices/static/media/pic2.0725efecd397eb427ed5.png",
@@ -17,12 +16,12 @@
     "static/media/revicons.ttf": "/spaceservices/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/spaceservices/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/spaceservices/index.html",
-    "main.64eba846.css.map": "/spaceservices/static/css/main.64eba846.css.map",
+    "main.ad9413e9.css.map": "/spaceservices/static/css/main.ad9413e9.css.map",
     "main.5e0dcdbe.js.map": "/spaceservices/static/js/main.5e0dcdbe.js.map",
     "787.0b5090a7.chunk.js.map": "/spaceservices/static/js/787.0b5090a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64eba846.css",
+    "static/css/main.ad9413e9.css",
     "static/js/main.5e0dcdbe.js"
   ]
 }
