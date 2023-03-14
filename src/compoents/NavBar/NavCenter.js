@@ -3,6 +3,7 @@ import './NavCenter.css';
 import logo from  './Logo.png';
 import {BsGlobe2} from 'react-icons/bs';
 function NavCenter() {
+  
   return (
     <div>
         <nav className="navbar navbar-expand-lg">

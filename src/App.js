@@ -7,7 +7,6 @@ import Casoul from './compoents/Casoul/Casoul';
 import { BrowserRouter,  Route,  Routes } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import Blog from './compoents/Blog/Blog';
-//import Article1 from './compoents/Articles/Article1';
 
 function App() {
   
@@ -16,6 +15,7 @@ function App() {
       <div className='App'> 
   <div className='main-section'>
  <NavCenter/>
+ 
  <Contact/>
 
    <BrowserRouter>
